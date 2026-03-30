@@ -1,4 +1,4 @@
-# 🛒 E-commerce Recommendation System Strategy & A/B Testing Simulation
+# E-commerce Recommendation System Strategy & A/B Testing Simulation
 
 [![Product Strategy](https://img.shields.io/badge/Product-PRD-blue.svg)]()
 [![Data Analysis](https://img.shields.io/badge/Data-A/B%20Testing-brightgreen.svg)]()
