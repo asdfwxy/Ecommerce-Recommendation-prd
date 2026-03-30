@@ -1,6 +1,4 @@
-# E-commerce Recommendation System Strategy & A/B Testing Simulation
-
-电商推荐系统产品策略设计项目
+# E-commerce Recommendation System Strategy & A/B Testing Simulation 关于电商推荐系统优化策略的模拟分析
 
 [![Product Strategy](https://img.shields.io/badge/Product-PRD-blue.svg)]()
 [![Data Analysis](https://img.shields.io/badge/Data-A/B%20Testing-brightgreen.svg)]()
